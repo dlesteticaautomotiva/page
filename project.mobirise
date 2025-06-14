@@ -1626,6 +1626,9 @@
             },
             "P": {
               "text-align": "left"
+            },
+            ".mbr-section-btn a": {
+              "font-size": "1rem !important"
             }
           },
           "_name": "custom-html",

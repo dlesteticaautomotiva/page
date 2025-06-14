@@ -1,0 +1,8 @@
+User-agent: *
+Disallow:
+Allow: http://dlesteticaautomotiva.com.br/
+Allow: http://dlesteticaautomotiva.com.br/inicio
+Allow: http://dlesteticaautomotiva.com.br/servicos
+Allow: http://dlesteticaautomotiva.com.br/inicio/servicos
+Sitemap: http://dlesteticaautomotiva.com.br/sitemap.xml
+
